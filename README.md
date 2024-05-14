@@ -1,6 +1,6 @@
 ![thumbnail-Formação Java](https://github.com/jacqueline-oliveira/3356-java-screenmatch-web/assets/66698429/d1e7755b-0a61-411f-bb99-9fcfda44f00c)
 
-# Java: criando sua primeira API e conectando ao front
+# Java: criando sua primeira a e conectando ao front
 
 Projeto desenvolvido no terceiro curso da formação Avançando com Java da Alura
 
